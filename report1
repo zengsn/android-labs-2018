@@ -1,0 +1,18 @@
+# 第一次实验
+   
+## 1.实验目标
+      Android开发环境搭建
+## 2.实验步骤
+   1.搭建开发环境（Android Studio 3.1正式版）
+   2.加入Git项目（Fork），将项目克隆（Clone）到自己帐号下；
+$ git clone https://github.com/YOUR_NAME/android-labs-2018/
+   3.创建以学号命名的个人实验目录：
+     soft1614080902214
+   4.创建一个Java类：edu.hzuapps.androidlabs.soft1614080902214.Soft1614080902214Activity.java
+   5.提交代码并发Pull Request
+##3.实验体会
+   **老师真棒**
+
+
+
+实验截图：https://github.com/Ccclk/android-labs-2018/commit/6b70f8dfdc7a476f4dcbb099dfb9e33621d6177f
