@@ -1,6 +1,6 @@
 
 # 第一次实验
-
+ 
 ## 1.实验目标
       Android开发环境搭建
 ## 2.实验步骤
@@ -12,7 +12,7 @@
    4.创建一个Java类：edu.hzuapps.androidlabs.soft1614080902214.Soft1614080902214Activity.java
    5.提交代码并发Pull Request
 ##3. 实验结果
-     https://github.com/zengsn/android-labs-2018/blob/6b70f8dfdc7a476f4dcbb099dfb9e33621d6177f/%E6%88%AA%E5%9B%BE1.jpg?raw=true
+    ![image](https://github.com/zengsn/android-labs-2018/blob/6b70f8dfdc7a476f4dcbb099dfb9e33621d6177f/%E6%88%AA%E5%9B%BE1.jpg?raw=true)
      
  ##4.实验体会
      这个实验感觉很简单但是实际操作起来比较难，因为第一次接触github这个网站，最后终于初步了解这个的使用方法，还有学了几个git命令
